@@ -10,4 +10,9 @@ package com.mycompany.parcials1;
  */
 public class ParcialS1 {
 
+     public void metodoA() {
+ System.out.println("ejecutando metodo A");
+ }
+
+
 }
